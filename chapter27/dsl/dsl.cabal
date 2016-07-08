@@ -16,7 +16,7 @@ library
   build-depends:       
       base                 >= 4.6
     , haskeline            >= 0.7.1.2
-    , llvm-general         == 3.4.4.*
-    , llvm-general-pure    == 3.4.4.*
+    , llvm-general         
+    , llvm-general-pure    
     , mtl                  >= 2.2
     , transformers
